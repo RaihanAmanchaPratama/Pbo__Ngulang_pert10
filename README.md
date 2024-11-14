@@ -23,3 +23,9 @@ Proyek ini adalah simulasi sistem ATM sederhana yang memungkinkan pengguna untuk
 1. Clone repositori ini ke komputer Anda.
 2. Buka terminal dan navigasikan ke direktori proyek.
 3. Jalankan aplikasi dengan menggunakan perintah berikut:
+
+
+Dokumentassi
+![image](https://github.com/user-attachments/assets/5e046049-4082-41a4-ae17-7dd9a0c828a4)
+
+
